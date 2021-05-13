@@ -10,4 +10,7 @@ All related scripts are in the [Scraper](/Scraper) folder:
 * default_start.py - the initialisation script, containing the user-defined list of cities to scrape.
 * scrape_accuweather.bat - batch file to run the default_start.py. May be used to schedule the job in Windows
 
-Refer to [project notebook](martin_ng_project.ipynb) for more information on how to run the scraper.
+Refer to [project notebook](martin_ng_project.ipynb) for more information on how to run the scraper. [requirements.txt](requirements.txt) contains the various package dependencies.
+
+An example of the scraped data can be found in the excel [snapshot_1](snapshot_1.csv).
+
