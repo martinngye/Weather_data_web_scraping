@@ -1,0 +1,1 @@
+C:\Users\marti\Anaconda3\python.exe "default_start.py" pause
